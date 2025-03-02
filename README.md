@@ -1,4 +1,4 @@
-# Minimum OpenStack Deployment using DevStack
+# OpenStack Deployment using DevStack
 
 ## Prerequisites
 
