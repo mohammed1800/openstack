@@ -73,6 +73,6 @@ To stop services:
 To remove DevStack completely:
 ```sh
 ./clean.sh
+```
+![Screenshot 2025-03-03 122127](https://github.com/user-attachments/assets/6fb9166b-7d25-433c-8b69-0ac4f28a87e2)
 
-
-![Screenshot 2025-03-03 122127](https://github.com/user-attachments/assets/66c592ea-d4fb-46e5-86bf-3b2f73efae35)
