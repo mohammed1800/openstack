@@ -75,4 +75,11 @@ To remove DevStack completely:
 ./clean.sh
 ```
 ![Screenshot 2025-03-03 122127](https://github.com/user-attachments/assets/6fb9166b-7d25-433c-8b69-0ac4f28a87e2)
+![Screenshot 2025-03-03 122952](https://github.com/user-attachments/assets/34230d93-e3e9-41bc-b627-cb47bc69a3ee)
+![Screenshot 2025-03-03 123515](https://github.com/user-attachments/assets/7a3b02d5-4917-4662-8f94-a03acd7cace6)
+![Screenshot 2025-03-17 125146](https://github.com/user-attachments/assets/a96e8bf6-5b27-4f69-b5df-f66ca5afa9fe)
+![Screenshot 2025-03-17 125232](https://github.com/user-attachments/assets/9785e432-7fb2-4189-95c3-c55a57cbe176)
+![Screenshot 2025-03-17 130050](https://github.com/user-attachments/assets/74b90c44-f8e8-4beb-8093-b6012b098ee7)
+![Screenshot 2025-03-17 130102](https://github.com/user-attachments/assets/9342a0da-d894-4d9b-960b-3a4514676d76)
+![Screenshot 2025-03-17 130113](https://github.com/user-attachments/assets/c57bdbf5-219b-44b0-9c28-86e0d2daabd4)
 
